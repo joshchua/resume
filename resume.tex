@@ -13,10 +13,15 @@
 \pagenumbering{gobble}
 \usepackage[none]{hyphenat}
 
+\usepackage{subfiles}
+
 \begin{document}
 \centerline{\LARGE\textbf{Josh Chua}}
 \smallskip
 \centerline{
+  \ifdefined\fulldetails
+  \subfile{contact.tex}
+  \fi
   joshjchua@protonmail.com \textbullet \
   joshchua.com \textbullet \
   github.com/joshchua}

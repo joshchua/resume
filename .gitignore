@@ -1,3 +1,6 @@
+.DS_Store
 *.dvi
 *.aux
 *.log
+'Josh Chua Resume.pdf'
+contact.tex
