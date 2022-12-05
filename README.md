@@ -2,7 +2,7 @@
 
 ## Viewing my Resume
 
-Click [here](https://github.com/joshchua/resume/blob/main/Josh%20Chua%20Resume.pdf)!
+Click [here](https://github.com/joshchua/resume/blob/main/Josh%20Chua%20Resume%20(Limited%20Contact%20Info%20for%20Online).pdf)!
 
 ## Build Requirements
 
@@ -20,6 +20,12 @@ homebrew install --cask mactex-no-gui
 
 ## Building my Resume
 
+Limited version with home address and phone number removed:
 ```shell
-pdflatex ./'Josh Chua Resume.tex'
+make limited
+```
+
+Full version with all details (contact.tex is not version controlled):
+```shell
+make full
 ```
