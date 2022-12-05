@@ -12,10 +12,10 @@ in a TeXLive distribution. I prefer to use Emacs as my editor and
 build my LaTeX documents in the terminal.
 
 The non-GUI components of the MacTeX distribution can be installed with
-the following homebrew command on a Mac.
+the following Homebrew command on a Mac.
 
 ```shell
-homebrew install --cask mactex-no-gui
+brew install --cask mactex-no-gui
 ```
 
 ## Building my Resume
