@@ -20,6 +20,11 @@ brew install --cask mactex-no-gui
 
 ## Building my Resume
 
+Building all versions of my resume:
+```shell
+make
+```
+
 Limited version with home address and phone number removed:
 ```shell
 make limited
