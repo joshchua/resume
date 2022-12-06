@@ -45,10 +45,10 @@ make
 ### General
 Public limited version:
 ```shell
-make limited
+make general-limited
 ```
 
 Full version:
 ```shell
-make full
+make general-full
 ```
