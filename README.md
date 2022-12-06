@@ -30,7 +30,7 @@ Within Emacs, Flyspell spell checking can be activated via `M-x flyspell-mode`.
 
 ## Building the Resume as PDFs
 
-Using LaTeX means that different variants of my resume can be creaeted,
+Using LaTeX means that different variants of my resume can be created,
 such as focusing on different points or redacting personal information
 for public copies.
 
