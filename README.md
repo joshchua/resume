@@ -19,7 +19,7 @@ the following Homebrew command on a Mac.
 brew install --cask mactex-no-gui
 ```
 
-`flyspell-mode` in Emacs is handy for spellchecking, but `ispell`
+`flyspell-mode` in Emacs is handy for spell checking, but `ispell`
 needs to be downloaded separately.
 
 ```shell
