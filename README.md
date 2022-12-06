@@ -7,7 +7,7 @@ an email to [joshjchua@protonmail.com](mailto:joshjchua@protonmail.com).
 
 ## Build Requirements
 
-Josh's resume is made with LaTeX. To edit it, it needs to be opened in an
+Josh's resume is made with LaTeX. To edit it, resume.tex needs to be opened in an
 environment that supports LaTeX, such as Overleaf or a tools provided
 in a TeXLive distribution. Josh prefers to use Emacs as his LaTeX text
 editor and build his LaTeX documents in the terminal.
