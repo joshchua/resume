@@ -1,15 +1,15 @@
-# My Resume
+# Josh Chua's Resume
 
-## Viewing my Resume
+## Viewing Josh's Resume
 
-Click [here](https://github.com/joshchua/resume/blob/main/Josh%20Chua%20Resume%20(Limited%20Contact%20Info%20for%20Online).pdf)!
+Click [here](https://github.com/joshchua/resume/blob/main/output/online/general/Josh%20Chua%20Resume%20(Limited%20Contact%20Info%20for%20Online).pdf)!
 
 ## Build Requirements
 
-My resume is made with LaTeX. To edit it, it needs to be opened in an
+Josh's resume is made with LaTeX. To edit it, it needs to be opened in an
 environment that supports LaTeX, such as Overleaf or a tools provided
-in a TeXLive distribution. I prefer to use Emacs as my LaTeX text
-editor and build my LaTeX documents in the terminal.
+in a TeXLive distribution. Josh prefers to use Emacs as his LaTeX text
+editor and build his LaTeX documents in the terminal.
 
 The non-GUI components of the MacTeX distribution can be installed with
 the following Homebrew command on a Mac.
@@ -25,19 +25,27 @@ needs to be downloaded separately.
 brew install ispell
 ```
 
-## Building my Resume
+## Building the Resume as PDFs
 
-Building all versions of my resume:
+Using LaTeX means that different variants of my resume can be creaeted,
+such as focusing on different points or redacting personal information
+for public copies.
+
+contact.tex contains this additional personal information and is
+intentionally added to gitignore.
+
+Building all versions of the resume:
 ```shell
 make
 ```
 
-Limited version with home address and phone number removed:
+### General
+Public limited version:
 ```shell
 make limited
 ```
 
-Full version with all details (contact.tex is not version controlled):
+Full version:
 ```shell
 make full
 ```
