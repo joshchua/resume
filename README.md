@@ -2,7 +2,8 @@
 
 ## Viewing Josh's Resume
 
-Click [here](https://github.com/joshchua/resume/blob/main/output/online/general/Josh%20Chua%20Resume%20(Limited%20Contact%20Info%20for%20Online).pdf)!
+Click [here](https://github.com/joshchua/resume/blob/main/output/online/general/Josh%20Chua%20Resume%20(Limited%20Contact%20Info%20for%20Online).pdf)! If interested in the version with additional personal contact information, please request a copy by sending
+an email to [joshjchua@protonmail.com](mailto:joshjchua@protonmail.com).
 
 ## Build Requirements
 
